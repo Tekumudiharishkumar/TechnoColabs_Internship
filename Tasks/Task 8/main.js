@@ -1,4 +1,4 @@
-let userName = 'Pradeep';
+let userName = 'Harish';
 (userName == '')? console.log('Hello!') : console.log(`Hello, ${userName}!`);
 
 let userQuestion = 'Will RCB win IPL Trophy?';
